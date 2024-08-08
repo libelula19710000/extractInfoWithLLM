@@ -2,7 +2,10 @@
 
 ## Overview
 
-This repository contains the source code and resources used in a tutorial video hosted on YouTube, demonstrating how to extract information from PDF invoices using a Local Language Model (LLM). The tutorial is designed to provide hands-on experience with setting up a local LLM server, processing PDFs, and extracting data efficiently using R.
+This repository contains the source code and resources used in a tutorial video hosted on YouTube (in Spanish), demonstrating how to extract information from PDF invoices using a Local Language Model (LLM). The tutorial is designed to provide hands-on experience with setting up a local LLM server, processing PDFs, and extracting data efficiently using R.
+
+[![Cómo Extraer Información de Facturas en PDF con Modelos de Lenguaje Locales y R](https://img.youtube.com/vi/uBgJcE-56uc/hqdefault.jpg)](https://youtu.be/uBgJcE-56uc)
+
 
 ## Tutorial Overview
 
