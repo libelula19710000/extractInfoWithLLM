@@ -43,5 +43,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 For any questions or feedback, please contact:
 
 Dr. José Manuel Galán Ordax
-[Website](https://sites.google.com/site/josemagalan)
-[YouTube Channel](https://www.youtube.com/channel/UCdyoG8-b6G7aLkYb800x6ww)
+- [Website](https://sites.google.com/site/josemagalan)
+- [YouTube Channel](https://www.youtube.com/channel/UCdyoG8-b6G7aLkYb800x6ww)
